@@ -17,7 +17,6 @@ class mostrar_opciones():
         print('Opción 10: Guardar libros en archivo de disco duro (.txt o csv).')
         print('Opción 11: Salir :)')
         print('=======================================================================')
-
 class buscar_autores_editorial_genero():
     def buscar_aeg(self, por):
         self.por = por
